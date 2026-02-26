@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Takanashi Rikka ",
+    "origin": "Chūnibyō Demo Koi ga Shitai!",
+    "imga": "https://i.pinimg.com/736x/66/f8/d6/66f8d6cd9989df3dab54e6c33ef1e0cf.jpg",
+    "genero": "feminino",
+    "categoria": "Romance, Comédia, Drama"
+  },
+  {
+    "name": "Rintaro Tsumugi",
+    "origin": "Kaoru Hana wa Rin to Saku",
+    "imga": "https://i.pinimg.com/736x/04/03/e6/0403e6ab1b7343e5d19cc3206292e6ab.jpg",
+    "genero": "feminino",
+    "categoria": "Crime, Romance, Drama"
+  },
+  {
+    "name": "Choso",
+    "origin": "Jujutsu Kaisen",
+    "imga": "https://i.pinimg.com/736x/da/d2/3e/dad23e29799875cd2fd2028040716897.jpg",
+    "genero": "masculino",
+    "categoria": "Ação/Aventura, Fantasia Sombria / Sobrenatural "
+  },
+  {
+    "name": "Tomoe",
+    "origin": "Kamisama Kiss (Kamisama Hajimemashita)",
+    "imga": "https://i.redd.it/hopefully-not-such-a-controversial-take-but-do-you-think-v0-i0q451r72uqe1.jpg?width=802&format=pjpg&auto=webp&s=c0f277285e0670855ffb200494230711d8e9187d",
+    "genero": "masculino",
+    "categoria": "Romance, Sobrenatural"
+  },
+  {
+    "name": "Maomao",
+    "origin": "The Apothecary Diaries",
+    "imga": "https://i.redd.it/maomao-got-the-cat-ears-out-as-soon-as-she-heard-something-v0-b4r06nya1pde1.jpg?width=1080&format=pjpg&auto=webp&s=9d05101897bad6e7f25c3d5e54e25eadbccee40f",
+    "genero": "feminino",
+    "categoria": "Histórico, Mistério, Drama"
+  },
+  {
+    "name": "Nightwing (Dick Grayson)",
+    "origin": "DC Comics",
+    "imga": "https://preview.redd.it/why-is-nightwing-your-favorite-character-v0-gimwphtdlfzd1.jpeg?auto=webp&s=13aa959accdb53a2553a2ed20b2dc449e16e7b51",
+    "genero": "masculino",
+    "categoria": "Super-herói, Ação"
+  },
+  {
+    "name": "Yuri Plisetsky",
+    "origin": "Yuri!! On Ice",
+    "imga": "https://i.pinimg.com/736x/c8/b7/c1/c8b7c193263678a8e500ec6c77d5f5f6.jpg",
+    "genero": "masculino",
+    "categoria": "Esportes, patinação artística, drama"
+  },
+  {
+    "name": "Aisaka Taiga",
+    "origin": "Toradora!",
+    "imga": "https://i.pinimg.com/736x/41/e1/2f/41e12f568305648bf55f5ca9403c2b42.jpg",
+    "genero": "feminino",
+    "categoria": "comédia romântica, drama e slice of life (cotidiano)"
+  },
+  {
+    "name": "Mikaela Hyakuya",
+    "origin": "Owari no Seraph",
+    "imga": "https://i.pinimg.com/1200x/b8/ba/18/b8ba181047958a0d3ed586ef60b01bf4.jpg",
+    "genero": "masculino",
+    "categoria": "ação, fantasia sombria e vampiros"
+  },
+  {
+    "name": "Keisuke Baji",
+    "origin": "Tokyo Revengers",
+    "imga": "https://i.pinimg.com/1200x/eb/79/76/eb7976295f516e27fa8926dc80447102.jpg",
+    "genero": "masculino",
+    "categoria": "ação, drama e ficção científica"
+  },
+   {
+    "name": "Chifuyu Matsuno",
+    "origin": "Tokyo Revengers",
+    "imga": "https://i.pinimg.com/1200x/a7/4c/8c/a74c8c2c3fe761617d3b331b95f4bf14.jpg",
+    "genero": "masculino",
+    "categoria": "ação, drama e ficção científica"
+  },
+   {
+    "name": "Sebastian Michaelis",
+    "origin": "Kuroshitsuji (Black Butler)",
+    "imga": "https://i.pinimg.com/736x/db/2e/dc/db2edcb12a3d0a3c2addab59f43a68ea.jpg",
+    "genero": "masculino",
+    "categoria": "fantasia sombria, mistério e ação"
+  },
+  {
+    "name": "Kusuo Saiki",
+    "origin": "Saiki Kusuo no Psi-nan",
+    "imga": "https://i.pinimg.com/1200x/ff/e9/20/ffe9204eb5c4c724cd62979a6adb9a69.jpg",
+    "genero": "masculino",
+    "categoria": "sobrenatural, vida escolar e slice-of-life"
+  },
+  {
+    "name": "Power",
+    "origin": "Chainsaw Man",
+    "imga": "https://i.pinimg.com/1200x/87/99/b9/8799b9b95a31b8de86f666a897f175fc.jpg",
+    "genero": "feminino",
+    "categoria": "ação e fantasia sombria"
+  },
+  {
+    "name": "Osamu Dazai",
+    "origin": "Bungou Stray Dogs",
+    "imga": "https://i.pinimg.com/736x/f2/69/de/f269de3f67f0006f6c39fe155accde36.jpg",
+    "genero": "masculino",
+    "categoria": "Máfia, Drama, Comédia, Suspense"
+  },
+  {
+    "name": "Fiódor Dostoiévski",
+    "origin": "Bungou Stray Dogs",
+    "imga": "https://i.pinimg.com/1200x/eb/b3/50/ebb3509c571adf189a62896cb6dcc898.jpg",
+    "genero": "masculino",
+    "categoria": "Máfia, Drama, Comédia, Suspense"
+  },
+  {
+    "name": "Isaac Foster",
+    "origin": "Satsuriku no Tenshi (Angels of Death)",
+    "imga": "https://i.pinimg.com/1200x/55/75/cb/5575cb6e5e5509758ada969fa71f71d7.jpg",
+    "genero": "masculino",
+    "categoria": "terror psicológico, aventura e suspense"
+  },
+   {
+    "name": "Rei Suwa",
+    "origin": "Buddy Daddies",
+    "imga": "https://i.pinimg.com/1200x/76/de/a7/76dea7cbef6ff3484c0a1666cfbd0021.jpg",
+    "genero": "masculino",
+    "categoria": "ação, comédia e slice-of-life"
+  },
+{
+    "name": "Kiyoka Kudo",
+    "origin": "My Happy Marriage",
+    "imga": "https://i.pinimg.com/736x/7d/85/64/7d8564d54c96d1bcc01fd5f32b98c8d3.jpg",
+    "genero": "masculino",
+    "categoria": "drama de romance histórico"
+  },
+{
+    "name": "Lan Wangji",
+    "origin": "Mo Dao Zu Shi (O Fundador da Cultivação Demoníaca)",
+    "imga": "https://i.pinimg.com/736x/6a/18/1e/6a181ebbb26a3a382273546d3775fd45.jpg",
+    "genero": "masculino",
+    "categoria": "Xianxia (fantasia com magia, imortalidade e ação) e Danmei (BL - Boys' Love"
+  },
+{
+    "name": "Mii-kun",
+    "origin": "Miira no Kaikata",
+    "imga": "https://i.pinimg.com/736x/32/64/2f/32642f5ae3a1bc7f11a9b2dbd35efddf.jpg",
+    "genero": "masculino",
+    "categoria": "Slice of Life, Comédia, Sobrenatural, Iyashikei"
+  },
+  {
+    "name": "Izumi Miyamura",
+    "origin": "Hori-san to Miyamura-kun",
+    "imga": "https://i.pinimg.com/736x/95/fd/d5/95fdd504a0dba1f35106d673cbc7c2bc.jpg",
+    "genero": "masculino",
+    "categoria": "romance escolar focado em comédia, comédia romântica e cotidiano"
+  },
+   {
+    "name": "Patrick Verona",
+    "origin": "10 Coisas que Eu Odeio em Você",
+    "imga": "https://i.pinimg.com/736x/9f/01/49/9f014936002cff7da4cbca48ffdf560d.jpg",
+    "genero": "masculino",
+    "categoria": "Comédia romântica, Romance, Comédia, Adolescente, Melodrama, Drama, Comédia dramática"
+  },
+  {
+    "name": "Kat Stratford",
+    "origin": "10 Coisas que Eu Odeio em Você",
+    "imga": "https://i.pinimg.com/1200x/76/b3/48/76b348ce0a6a6d05eb9caf724867495d.jpg",
+    "genero": "feminino",
+    "categoria": "Comédia romântica, Romance, Comédia, Adolescente, Melodrama, Drama, Comédia dramática"
+  },
+  {
+    "name": "Furina",
+    "origin": "Genshin Impact",
+    "imga": "https://i.pinimg.com/736x/23/0e/2c/230e2cf938ce2ea1ab3ed04c7a8917e4.jpg",
+    "genero": "feminino",
+    "categoria": "RPG eletrônico de ação, Jogo eletrônico de aventura"
+  },
+  {
+    "name": "Sans",
+    "origin": "Undertale",
+    "imga": "https://i.pinimg.com/736x/3b/98/26/3b9826e0f1e000865f588acba68f7c59.jpg",
+    "genero": "masculino",
+    "categoria": " Jogo eletrônico independente, RPG eletrônico, Jogo eletrônico de aventura, Jogo eletrônico de ação"
+  },
+   {
+    "name": "Malleus Draconia",
+    "origin": "Twisted Wonderland",
+    "imga": "https://i.pinimg.com/736x/ad/84/54/ad84546f893cc95049ee22b9e5514e08.jpg",
+    "genero": "masculino",
+    "categoria": "Jogo para celular, Jogo eletrônico de aventura, Jogo eletrônico de ação, Jogo eletrônico de ritmo"
+  },
+  {
+    "name": "Puppycat",
+    "origin": "Bee and PuppyCat",
+    "imga": "https://i.pinimg.com/736x/8b/65/8b/8b658b950bf188771cfdf5bc03c10a83.jpg",
+    "genero": "masculino",
+    "categoria": "comédia, aventura, fantasia e ficção científica espacial"
+  }
+]
