@@ -1,4 +1,5 @@
-//import "./header.css"
+import "./header.css"
+import "../app.css";
 import { useState } from "react";
 
 export default function Header() {
@@ -11,7 +12,7 @@ export default function Header() {
     <header className="header">
       <div className="container headerzin">
         <div className="logo">
-          <strong>Meus personagens</strong>
+          <strong>My favorite characters</strong>
         </div>
 
         {/*sanduba*/}
