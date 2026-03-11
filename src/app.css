@@ -1,21 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap");
 
 :root {
-  --bg: #f7ddfa;
-  --bg2: #bb98ff;
-  --primary: #7262ff;
-  --secundary: #968cfd;
-  --accent: #72e9fb;
+  --bg: #f3ebff;
+  --bg2: #e0b0ff;
+  --primary: #8a2be2;
+  --secundary: #00ced1;
+  --accent: #20b2aa;
 
-  --text: #25244c;
-  --focus: #72e9fb;
+  --text: #2d144b;
+  --focus: #00ced1;
 
-  --white: #fff;
+  --white: #ffffff;
   --black: #000;
 
   font-size: 16px;
 
-  --border: 1px solid #18c6f1;
+  --border: 2px solid #8a2be2;
+  --shadow: 5px 5px 15px rgba(138, 43, 226, 0.3);
 }
 
 * {
@@ -55,11 +56,35 @@ button:focus-visible {
   border-radius: 10px;
 }
 
-.container{
+.container {
   width: min(1100px, 92%);
   margin: 0 auto;
 }
 
-main{
+main {
   padding: 1rem 0.5rem;
 }
+
+.btn {
+  display: inline-block;
+  padding:0.75rem 1rem;
+  border-radius: 0.7rem;
+  font-weight: 700;
+  font-size: 0.95rem;
+  border: var(--border);
+  box-shadow: (var(--shadow));
+}
+
+.btn-primary{
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  color: var(--white);
+  text-decoration: none;
+}
+
+.btn-primary:hover{
+  background: linear-gradient(135deg, var(--accent), var(--primary));
+  color: var(--white);
+  text-decoration: underline;
+}
+
+
