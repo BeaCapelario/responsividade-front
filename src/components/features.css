@@ -1,0 +1,76 @@
+.features{
+    margin: 1rem;
+}
+
+.features h2{
+    font-size: 2.3rem;
+}
+
+.grid{
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+}
+
+.card{
+    background: var(--white);
+    border: var(--border);
+    border-radius: 1.5rem;
+    box-shadow: var(--shadow);
+    padding: 0.8rem 1rem;
+}
+
+.card h3{
+    font-size: 1.5rem;
+    margin: 0;
+    padding: 0.8rem 0;
+    text-align: center;
+}
+
+.card p{
+    margin: 0;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.card figure{
+    display: flex;
+    justify-content: center;
+}
+
+.card figure img{
+    width: 70%;
+}
+
+@media (min-width: 768px){ /*tablet*/
+
+    .grid{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+
+@media (min-width: 1024px){ /*notebook pequeno*/
+
+    .grid{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+
+@media (min-width: 1440px){ /* notebook tela media*/
+
+    .grid{
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    .card p{
+        font-size: 1rem;
+    }
+
+    .card figure img{
+        width: 100%;
+    }
+}
+
